@@ -145,7 +145,7 @@ import telebot
 
 
 # ═══════════════════ [4] BOT CONFIGURATION (.env Secured) ═══════════════════
-TOKEN = "8954055665:AAFglMTRTnZMJ-s2YTvw1SaidvY3PlTixDc"
+TOKEN = "8954055665:AAFub-entrplitBwYSGSKQbALxePDmOfIFY"
 if not TOKEN:
     raise RuntimeError(
         "BOT_TOKEN missing! Please create a .env file with BOT_TOKEN=your_bot_token"
